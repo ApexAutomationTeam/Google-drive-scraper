@@ -1,6 +1,7 @@
 # Google-drive-scraper
 Google Apps Script to scan Drive folders recursively and export details to Google Sheets &amp; Docs.
-Markdown
+
+Also see how this works in our uploaded video on release https://github.com/ApexAutomationTeam/Google-Maps-Scraper/releases/tag/v1.0.0
 # 📂 Google Drive Scraper & Reporter (Advanced)
 
 > 💡 **Community Project**: This is one of many automation solutions open-sourced by **[Apex Automation Team](https://apexautomationteam.com/)**. Visit our website to explore more enterprise workflow automations, custom AI integrations, and scripting tools!
