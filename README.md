@@ -65,5 +65,12 @@ Website: https://apexautomationteam.com/
 
 Inquiries & Automation Requests: Connect with us through our website.
 
-How to Run in Google Apps ScriptOpen Google Apps Script:Go to script.google.com/home and click on New project.   1️⃣ Paste the CodeIn the Apps Script editor, press Ctrl + A → Delete → paste this code.   Paste your folder ID in line 3:   JavaScriptconst FOLDER_ID = 'YOUR_FOLDER_ID_HERE';
-2️⃣ Add the Drive API Service (if not already added)On the left sidebar, click the + icon next to Services.   Find Drive API in the list → click Add (Version v3).   3️⃣ Select the FunctionIn the top toolbar dropdown, select runAll (or runToday / runMostRecent).   4️⃣ Run the ScriptClick ▶ Run.   When the permissions popup appears, grant access by clicking Allow.   5️⃣ ResultsGoogle Sheet — All files organized with color coding by file type.   Google Doc — Formatted list: File Name → URL → File Name → URL (ready to copy and paste into Slack).   
+How to Run in Google Apps ScriptOpen Google Apps Script:
+
+Go to script.google.com/home and click on New project.   
+
+1️⃣ Paste the CodeIn the Apps Script editor, press Ctrl + A → Delete → paste this code.   Paste your folder ID in line 3:   JavaScriptconst FOLDER_ID = 'YOUR_FOLDER_ID_HERE';
+2️⃣ Add the Drive API Service (if not already added)On the left sidebar, click the + icon next to Services.   Find Drive API in the list → click Add (Version v3).   
+3️⃣ Select the FunctionIn the top toolbar dropdown, select runAll (or runToday / runMostRecent).   
+4️⃣ Run the ScriptClick ▶ Run.   When the permissions popup appears, grant access by clicking Allow.  
+5️⃣ ResultsGoogle Sheet — All files organized with color coding by file type.   Google Doc — Formatted list: File Name → URL → File Name → URL (ready to copy and paste into Slack).   
